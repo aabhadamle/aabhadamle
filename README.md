@@ -3,7 +3,6 @@
 <p align="center">&nbsp;</p>
 
 
-📚 Currently pursuing **PG-DAI** from **CDAC Guwahati**  
 🎓 Recent Computer Engineering graduate  
 💻 Passionate about Web Development, Machine Learning and AI  
 🌱 Currently learning: Cloud Computing  
